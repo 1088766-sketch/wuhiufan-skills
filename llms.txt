@@ -28,3 +28,5 @@
 - [Wuhiufan Red Packet Cover Studio](/skills/wuhiufan-red-packet-cover-studio.html): WeChat red packet cover design workflow — safe zones, 16 styles, approval gate, simulation preview, spec-checked export, $1.99, on sale
 - [Wuhiufan GIF Sticker Studio](/skills/wuhiufan-gif-sticker-studio.html): animated sticker packs from a photo — anchor-card identity lock, 12 styles, beat-sheet frames, GIF assembly scripts, $1.99, on sale
 - [Wuhiufan Cinematic Poster Studio](/skills/wuhiufan-cinematic-poster-studio.html): film and book poster design — 30-layout text library, bilingual titles, prompt structure, text repair loop, $1.99, on sale
+- [Wuhiufan Product Video Script Studio](/skills/wuhiufan-product-video-script-studio.html): commercial product video scripts and shootable storyboards — jobs, triage, strategy gate, CSV delivery, $1.99, on sale
+- [Wuhiufan Faceless Explainer Studio](/skills/wuhiufan-faceless-explainer-studio.html): journal-style faceless knowledge videos — fact-check gate, script lock, voiceover, original visual system, QC scripts, $1.99, on sale
