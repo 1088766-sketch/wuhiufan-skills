@@ -1,0 +1,14 @@
+# Fact-Check Gate — run before every draft
+
+Story: ______________________  Candidate #: ______
+
+- [ ] Official source opened (URL: ______________________)
+- [ ] Publication date on the source is actually today/relevant
+- [ ] Second confirmation found (URL: ______________________)
+- [ ] Every number copied from a page, not from memory:
+      prices ___  dates ___  versions ___  benchmarks ___
+- [ ] Conflicts between sources? If yes: dropped the number / noted it
+- [ ] Not already in the ledger (searched title + source)
+- [ ] Angle is practitioner-first: what changes for the reader?
+
+Verdict: PUBLISH / PARK (reason: ______________)

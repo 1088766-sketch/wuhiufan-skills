@@ -1,0 +1,5 @@
+# News Ledger (append-only — never edit old rows)
+
+| # | Date | Slot | Title | Source URL | Post URL | Notes |
+|---|------|------|-------|------------|----------|-------|
+| 1 | 2026-01-01 | 09:00 | Example: Vendor X releases Model Y | https://official-blog.example/post | https://your-channel.example/1 | Numbers copied from pricing page |

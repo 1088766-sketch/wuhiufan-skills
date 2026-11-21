@@ -1,0 +1,90 @@
+# AI News Channel Operator — Skill
+
+Turn your AI assistant (Claude, or any agent that reads skill files) into the
+operator of a daily AI news channel: it collects candidate stories from
+official sources, fact-checks them, drafts posts in your voice, publishes on a
+fixed cadence, and keeps a ledger so nothing is ever posted twice.
+
+This is not a prompt pack. It is the operating system of a real channel that
+publishes 3-5 verified AI news posts every day, distilled into rules an agent
+can follow without improvisation.
+
+## When to use
+- You run (or want to run) an AI news channel/account on Telegram, X,
+  Facebook, Instagram, YouTube or Bilibili.
+- You are tired of hallucinated "news": wrong dates, invented features,
+  recycled rumors.
+- You want daily output without spending your own day on it.
+
+## Core principles
+1. **Official sources only.** Model releases, pricing and feature claims come
+   from the vendor's own blog, docs, changelog or verified account. A
+   screenshot of a tweet about a blog post is not a source.
+2. **Two-source gate.** Every factual claim in a post must be confirmed by two
+   independent official sources, or one official source plus the product
+   itself (live API, live pricing page). If it cannot be confirmed, it does
+   not ship — it goes back to the candidate pool with the reason noted.
+3. **Numbers are guilty until proven innocent.** Benchmarks, prices, context
+   windows and dates are copied from the source page, never from memory and
+   never from a secondary summary.
+4. **Fixed cadence beats bursts.** 3-5 posts a day at fixed times. The
+   channel is a habit for the reader, not a lottery.
+5. **The ledger is law.** Every published post is logged with a running
+   number, source URL and timestamp. Before drafting, check the ledger: the
+   same story is never published twice under a new headline.
+
+## The daily pipeline
+### 1. Collect (candidate pool)
+- Maintain a watchlist of official sources: vendor blogs (OpenAI, Anthropic,
+  Google DeepMind, Meta AI, Mistral, xAI, NVIDIA), official X accounts,
+  GitHub release pages, and 2-3 high-signal aggregators.
+- Pull new items into a candidate pool (a simple table or note file is fine).
+  Candidates are never published automatically.
+
+### 2. Select
+- Score each candidate on: (a) is it actually new today, (b) does it change
+  what a practitioner can do, (c) can it be explained in one screen.
+- Pick the top 3-5. Park the rest; a parked item with a note is an asset,
+  not a failure.
+
+### 3. Verify (the gate)
+For each selected item, before drafting:
+- [ ] Open the official source. Note the publication date — is the "news"
+      actually from today?
+- [ ] Find the second confirmation (another official page, the live product,
+      or the official account's own post).
+- [ ] Copy every number (price, tokens, dates, versions) from the page.
+- [ ] If two sources conflict, report the conflict or drop the number —
+      never average, never guess.
+- [ ] If verification fails: back to the pool, reason logged. No exceptions
+      for "everyone is posting it".
+
+### 4. Draft
+- One post = one idea. First line is the news itself, not a teaser.
+- Structure: what happened -> why it matters to a practitioner -> the one
+  concrete detail (price/date/link) -> source link.
+- Write like a person who read the source, not like a press release.
+- No engagement bait, no invented quotes, no "game changer" filler.
+
+### 5. Publish and log
+- Publish at your fixed slots. Immediately append to the ledger:
+  number, time, title, source URL, post URL.
+- If a platform send fails, fall back to the platform's official API or
+  posting bridge rather than re-trying the same broken path all day.
+
+### 6. Weekly review (15 minutes)
+- Which topics earned saves/forwards? Which died? Adjust the watchlist and
+  the selection scoring, not the verification gate.
+- Prune dead sources. Add one new source you kept seeing cited.
+
+## Failure modes this skill prevents
+- Posting a model release that happened last month (date check).
+- Quoting a price from a rumor thread (numbers rule).
+- Publishing the same story twice in a week (ledger).
+- A channel that posts 12 times one day and zero the next (cadence rule).
+- "AI slop" tone that gets a channel muted (drafting rules).
+
+## What you still do yourself
+- Final publish tap on platforms that require it.
+- Anything involving payment, account recovery, or identity verification.
+- Reading the weekly review and making the one judgment call it surfaces.

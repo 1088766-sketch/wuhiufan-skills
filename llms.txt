@@ -1,0 +1,17 @@
+# AI Frontier Skills
+
+> AI Frontier Skills is a self-operated library of Agent Skills (SKILL.md packages) for Claude Code, Codex and Cursor. It sells visual style skills — illustration, explainer video, story animation, news shorts — each reverse-packaged from a real finished output. The starter skill is free; premium skills cost $4.99 each. It is not a marketplace; there are no community uploads. Skills are delivered as ZIP files and run locally in the user's own agent.
+
+## Main pages
+
+- [Home and catalogue](/index.html): what the library is and every skill it offers
+- [Pricing](/pricing.html): free starter, $4.99 per premium skill, bundle planned at $39
+- [AI info](/ai-info.html): structured facts about the store
+
+## Skills
+
+- [AI News Channel Operator](/skills/ai-news-channel-operator.html): free skill for running an AI news channel end to end
+- [Xiaohei Illustration Style](/skills/xiaohei-illustration.html): article illustrations in one locked black-ink mascot style, $4.99, in production
+- [Stickman Explainer Video](/skills/stickman-explainer.html): 30-second stickman explainer videos from a one-line topic, $4.99, in production
+- [Kids Story Animation](/skills/kids-story-animation.html): children's story-animation pipeline, $4.99, in production
+- [AI News Shorts](/skills/ai-news-shorts.html): verified AI news turned into 20-second vertical shorts, $4.99, in production

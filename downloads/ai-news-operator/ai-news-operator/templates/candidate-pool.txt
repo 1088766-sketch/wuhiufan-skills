@@ -1,0 +1,5 @@
+# Candidate Pool (nothing here is published automatically)
+
+| Date found | Title | Source | Why it might matter | Status |
+|------------|-------|--------|---------------------|--------|
+| 2026-01-01 | Example story | Official blog | New free tier | parked — unverified pricing |

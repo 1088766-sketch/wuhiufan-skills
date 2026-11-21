@@ -1,0 +1,55 @@
+# Playbook — Setting Up and Running the Channel
+
+## Day 0: setup (about 1 hour)
+1. **Pick one home platform.** Telegram channels and X are the fastest to
+   operate with an agent; add others later as mirrors, not as separate jobs.
+2. **Build your watchlist (30-50 sources).** Start with vendor blogs and
+   official accounts in your niche. A source earns its place by breaking real
+   news, not by posting often.
+3. **Create three files** (templates included in this pack):
+   - `candidate-pool` — raw finds, never auto-published.
+   - `ledger` — the append-only record of everything published.
+   - `watchlist` — your sources, reviewed weekly.
+4. **Fix your slots.** Three publishing windows a day (e.g. 09:00, 13:00,
+   20:30 in your audience's timezone). Put them in your calendar; the agent
+   works to the slots, not to inspiration.
+5. **Give the agent the skill.** Drop `SKILL.md` into your agent's skill
+   folder (Claude: `~/.claude/skills/ai-news-operator/SKILL.md`, or paste it
+   as project instructions for other agents) and tell it your channel name,
+   platforms, slots and timezone.
+
+## Daily rhythm (agent does this; you spot-check)
+- **Morning slot:** collect overnight candidates -> verify top items ->
+  draft -> publish 1-2 -> log.
+- **Midday slot:** publish 1-2 held items; reply to substantive comments.
+- **Evening slot:** publish final 1-2; park leftovers with notes.
+- **End of day:** one-line report — posts published, sources that failed,
+  anything awaiting your decision.
+
+## Growth rules that actually worked
+- **Consistency is the growth strategy.** 90 days of 3-5 verified posts beat
+  any launch stunt.
+- **Cross-promote inside your own matrix first** (profile links on every
+  platform you run), then directories, then mutual promotion with channels
+  your size — same tier, no repeat partner within 30 days.
+- **One forwardable post a week:** a summary, a comparison table, or a
+  "everything that changed this week" roundup. Design it to be forwarded.
+- **Post-level SEO:** the exact model/product name in the first line, the
+  words a user would search, and the source link in every post.
+
+## Quality incidents and how to handle them
+- **You posted something wrong:** correct it in a follow-up post the same
+  day, note it in the ledger, and tighten the checklist where it failed.
+  Never silently delete and pretend.
+- **A source keeps failing verification:** demote it to "leads only" — it can
+  point you to stories but can never be the cited source.
+- **Platform send failures:** switch to the official API/bridge path; log
+  the failure count. Three failures on one path = change the path, not the
+  effort.
+
+## Metrics that matter (weekly)
+- Posts published vs planned (target: 100%).
+- Verification rejects (healthy: some — zero rejects means the gate is off).
+- Saves/forwards per post (the only honest growth signal early on).
+- Subscriber delta. Slow is fine; negative after a quality incident is the
+  alarm.
