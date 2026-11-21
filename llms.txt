@@ -26,3 +26,4 @@
 - [Wuhiufan Creator Prompt System](/skills/wuhiufan-creator-prompt-system.html): eight bilingual prompt systems for running a content account — topic scoring, headlines, fact gate, scripts, voice check, repurposing, replies, weekly retro, $19, on sale
 - [Wuhiufan Creator Data Tracker](/skills/wuhiufan-creator-data-tracker.html): multi-platform creator spreadsheet with weekly rollups and dashboard, Excel and Google Sheets, $15, on sale
 - [Wuhiufan Red Packet Cover Studio](/skills/wuhiufan-red-packet-cover-studio.html): WeChat red packet cover design workflow — safe zones, 16 styles, approval gate, simulation preview, spec-checked export, $1.99, on sale
+- [Wuhiufan GIF Sticker Studio](/skills/wuhiufan-gif-sticker-studio.html): animated sticker packs from a photo — anchor-card identity lock, 12 styles, beat-sheet frames, GIF assembly scripts, $1.99, on sale
