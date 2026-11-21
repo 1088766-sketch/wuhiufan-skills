@@ -20,4 +20,4 @@ Allow: /
 User-agent: Claude-User
 Allow: /
 
-Sitemap: /sitemap.xml
+Sitemap: https://1088766-sketch.github.io/ai-frontier-skills/sitemap.xml
