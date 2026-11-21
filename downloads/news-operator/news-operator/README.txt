@@ -1,4 +1,4 @@
-# AI News Channel Operator — Claude Skill Pack
+# News Channel Operator — Claude Skill Pack
 
 Run a daily AI news channel that never posts hallucinations.
 

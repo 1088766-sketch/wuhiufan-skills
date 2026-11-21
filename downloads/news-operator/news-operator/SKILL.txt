@@ -1,4 +1,4 @@
-# AI News Channel Operator — Skill
+# News Channel Operator — Skill
 
 Turn your AI assistant (Claude, or any agent that reads skill files) into the
 operator of a daily AI news channel: it collects candidate stories from
