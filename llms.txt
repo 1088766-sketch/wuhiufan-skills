@@ -27,3 +27,4 @@
 - [Wuhiufan Creator Data Tracker](/skills/wuhiufan-creator-data-tracker.html): multi-platform creator spreadsheet with weekly rollups and dashboard, Excel and Google Sheets, $15, on sale
 - [Wuhiufan Red Packet Cover Studio](/skills/wuhiufan-red-packet-cover-studio.html): WeChat red packet cover design workflow — safe zones, 16 styles, approval gate, simulation preview, spec-checked export, $1.99, on sale
 - [Wuhiufan GIF Sticker Studio](/skills/wuhiufan-gif-sticker-studio.html): animated sticker packs from a photo — anchor-card identity lock, 12 styles, beat-sheet frames, GIF assembly scripts, $1.99, on sale
+- [Wuhiufan Cinematic Poster Studio](/skills/wuhiufan-cinematic-poster-studio.html): film and book poster design — 30-layout text library, bilingual titles, prompt structure, text repair loop, $1.99, on sale
