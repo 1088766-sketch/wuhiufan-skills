@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Wuhiufan Video Prompt Studio Skill | Wuhiufan Skills</title>
+<meta name="description" content="Wuhiufan Video Prompt Studio writes video prompts like a shooting script: a six-part template, frozen character wording, snapshot stitching for long pieces, and frame extraction checks before you ship. $1.99.">
+<link rel="stylesheet" href="../style.css">
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"Organization","name":"Wuhiufan Skills","description":"Agent Skills with a finished output you can preview before you install: visual style skills for Claude Code, Codex and Cursor.","brand":"Wuhiufan Skills"}
+</script>
+</head>
+<body>
+<header><nav>
+<a href="../index.html"><strong>Wuhiufan Skills</strong></a>
+<a href="../index.html#skills">Skills</a>
+<a href="../pricing.html">Pricing</a>
+<a href="../facts.html">Facts</a>
+</nav></header>
+<main>
+<h1>Wuhiufan Video Prompt Studio</h1>
+<p class="lead">Write the prompt like a shooting script: six fixed parts, frozen character wording, segments stitched on purpose, and frames checked before you ship. The face changes between segments, the third beat never happens, the camera zooms when nobody asked — this studio fixes the process, not just the prompt.</p>
+<p><span class="tag">For short-video creators and agent users</span><span class="tag">Claude Code</span><span class="tag">Codex</span><span class="tag">Cursor</span></p>
+<p class="price">$1.99 — available now</p>
+<p><a class="btn" href="https://wuhiufan.gumroad.com/l/wuhiufan-video-prompt-studio">Buy on Gumroad — $1.99</a></p>
+
+<h2>What is inside the package?</h2>
+<ul>
+<li>The six-part template — format, character, scene, beat timeline, camera language, sound and dialogue, plus a restriction list; each part states what to write, why it matters, and the mistakes that break it</li>
+<li>Three variants — POV footage where the camera-person must never appear, talking-head clips with short lip-synced lines, and multi-segment pieces for anything longer than one generation</li>
+<li>Stitching method — continue each segment from the previous segment's snapshot, check dimensions match, join with ffmpeg stream copy; segment files stay separate so a bad segment gets redone alone</li>
+<li>Consistency tactics, ranked by what actually helps — frozen character text first, scoped reference images second, snapshot chains for long pieces, and a plain statement of when to stop and use a dedicated identity tool instead</li>
+<li>Frame verification — scripts/extract_frames.py pulls stills at a fixed interval; an acceptance checklist walks character, wardrobe, scene, beats, camera and stitch boundaries</li>
+<li>A complete worked example — a 15-second ad for a fictional self-heating mug, written as two stitched segments, with join points and likely failure frames called out</li>
+</ul>
+
+<h2>Honest limitations (please read)</h2>
+<p>A method, not a generator: no video tool, no model access, no credits are included; the template, stitching and frame-check steps work with any text-to-video tool you bring. Regional availability is out of our hands: the built-in video feature this workflow was first developed against is region-restricted in the original author's own environment (the service returned 403 video_not_available); whether a given platform offers video generation where you live is that platform's decision, and this package does not guarantee access to any specific platform. Two companion skills are not in the box: the original workflow sits between a shot-design skill upstream and a video-review skill downstream; neither is included, and this is not the full chain — you get the middle, complete on its own. Faces are probability, not a promise: frozen wording and snapshot chains cut drift down, but nothing in prompt craft can force a generator to lock a likeness. Stills can't hear: frame checks verify what pictures show; dialogue, accent, lip-sync and motion smoothness need your own watch-through. ffmpeg is not included: stitching and frame extraction need ffmpeg/ffprobe installed (free, standard).</p>
+
+<h2>Frequently asked questions</h2>
+<details><summary>Which video generator does it work with?</summary><p>Any text-to-video tool you already use. The method was first developed against an agent's built-in video feature, but the template, stitching and verification steps are tool-agnostic.</p></details>
+<details><summary>Does it guarantee the same face across clips?</summary><p>No. It ranks the tactics that cut drift the most and says plainly when to switch to a dedicated identity tool instead.</p></details>
+<details><summary>What do I need besides the skill?</summary><p>A video generator you can access, and ffmpeg/ffprobe for stitching and frame extraction.</p></details>
+<p><a href="../index.html#skills">Back to all skills</a></p>
+</main>
+<footer>Wuhiufan Skills — Agent Skills for Claude Code, Codex and Cursor. Every skill is designed, tested and maintained by the Wuhiufan Skills team. Skills run locally in your own agent; your model and API costs are yours.</footer>
+</body>
+</html>
