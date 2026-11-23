@@ -5,7 +5,7 @@
 ## Main pages
 
 - [Home and catalogue](/index.html): what the library is and every skill it offers
-- [Pricing](/pricing.html): free starter, $1.99 per premium skill, bundle planned at $39
+- [Pricing](/pricing.html): free starter, $1.99 per premium skill, Creator Toolkit Bundle $39
 - [AI info](/facts.html): structured facts about the store
 
 ## Skills
