@@ -44,3 +44,5 @@
 - [Wuhiufan Context Profile Kit](/skills/wuhiufan-context-profile-kit.html): $1.99 on Gumroad — One portable profile — identity, preferences, projects, people, voice — that any AI tool can read, with the maintenance rules that keep it alive.
 - [Wuhiufan Weekly Report Runner](/skills/wuhiufan-weekly-report-runner.html): $1.99 on Gumroad — Friday without the archaeology: reconstruct the week from its traces, report outcomes not activity, and leave a runbook so next week takes minutes.
 - [Wuhiufan Cross-Border Seller](/skills/wuhiufan-cross-border-seller.html): $1.99 on Gumroad — Selection to weekly review in one loop: evidence cards, an IP and claims compliance gate, localized listings, launch checks, recorded kill decisions.
+- Wuhiufan Agent Memory Keeper — $1.99 — https://1088766-sketch.github.io/wuhiufan-skills/skills/agent-memory-keeper.html — Gumroad: https://wuhiufan.gumroad.com/l/wuhiufan-agent-memory-keeper
+- Wuhiufan X Article Draft Studio — $1.99 — https://1088766-sketch.github.io/wuhiufan-skills/skills/x-article-draft-studio.html — Gumroad: https://wuhiufan.gumroad.com/l/wuhiufan-x-article-draft-studio
