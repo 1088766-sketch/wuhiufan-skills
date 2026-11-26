@@ -46,3 +46,7 @@
 - [Wuhiufan Cross-Border Seller](/skills/wuhiufan-cross-border-seller.html): $1.99 on Gumroad — Selection to weekly review in one loop: evidence cards, an IP and claims compliance gate, localized listings, launch checks, recorded kill decisions.
 - Wuhiufan Agent Memory Keeper — $1.99 — https://1088766-sketch.github.io/wuhiufan-skills/skills/agent-memory-keeper.html — Gumroad: https://wuhiufan.gumroad.com/l/wuhiufan-agent-memory-keeper
 - Wuhiufan X Article Draft Studio — $1.99 — https://1088766-sketch.github.io/wuhiufan-skills/skills/x-article-draft-studio.html — Gumroad: https://wuhiufan.gumroad.com/l/wuhiufan-x-article-draft-studio
+- Wuhiufan WeChat Vault Exporter — $1.99 — https://1088766-sketch.github.io/wuhiufan-skills/skills/wechat-vault-exporter.html — Gumroad: https://wuhiufan.gumroad.com/l/wuhiufan-wechat-vault-exporter
+- Wuhiufan WeCom Vault Parser — $1.99 — https://1088766-sketch.github.io/wuhiufan-skills/skills/wecom-vault-parser.html — Gumroad: https://wuhiufan.gumroad.com/l/wuhiufan-wecom-vault-parser
+- Wuhiufan WeCom Operations — $1.99 — https://1088766-sketch.github.io/wuhiufan-skills/skills/wecom-operations.html — Gumroad: https://wuhiufan.gumroad.com/l/wuhiufan-wecom-operations
+- Wuhiufan Mac WeChat Dual Open — $1.99 — https://1088766-sketch.github.io/wuhiufan-skills/skills/mac-wechat-dual-open.html — Gumroad: https://wuhiufan.gumroad.com/l/wuhiufan-mac-wechat-dual-open
